@@ -15,7 +15,7 @@ Build a professional digital presence hosted on GitHub Pages, featuring a modern
 - `style.css`: Modern dark theme styling and responsive layout.
 - `script.js`: Client-side interactivity.
 - `assets/`: Project images and resources.
-- `plan/`: Development roadmap and documentation.
+- `doc/`: Development roadmap and documentation.
 
 ## 📈 Planned Sections
 - **Hero:** Introduction to NATT NATTHUN.
