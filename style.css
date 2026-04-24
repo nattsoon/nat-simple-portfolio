@@ -206,6 +206,20 @@ h3::after {
     margin: 0;
 }
 
+.demo-tag {
+    display: inline-block;
+    margin-top: 15px;
+    font-size: 0.75rem;
+    color: var(--accent-color);
+    background: rgba(0, 242, 255, 0.05);
+    padding: 4px 12px;
+    border-radius: 20px;
+    border: 1px solid rgba(0, 242, 255, 0.2);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
 /* Contact Section */
 #contact {
     padding: 100px 0;
